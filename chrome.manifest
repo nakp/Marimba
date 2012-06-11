@@ -1,0 +1,6 @@
+skin    marimba-sounds      classic/1.0   chrome/skin/
+override chrome://instantbird-sounds/skin/login.wav chrome://marimba-sounds/skin/login.wav
+override chrome://instantbird-sounds/skin/logout.wav chrome://marimba-sounds/skin/logout.wav
+override chrome://instantbird-sounds/skin/send.wav chrome://marimba-sounds/skin/send.wav
+override chrome://instantbird-sounds/skin/receive.wav chrome://marimba-sounds/skin/receive.wav
+override chrome://instantbird-sounds/skin/alert.wav chrome://marimba-sounds/skin/alert.wav
